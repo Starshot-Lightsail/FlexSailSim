@@ -1,7 +1,7 @@
 %% Tutorial and tests of TriangleRayIntersection function
 % *By Jarek Tuszynski* (jaroslaw.w.tuszynski@leidos.com)
 %
-% Ray/triangle intersection using the algorithm proposed by Möller and
+% Ray/triangle intersection using the algorithm proposed by MÃ¶ller and
 % Trumbore (1997), implemented as highly vectorized MATLAB code.
 %
 % *Note* :
@@ -71,7 +71,7 @@
 %% References
 % Based on
 %
-% * "Fast, minimum storage ray-triangle intersection". Tomas Möller and
+% * "Fast, minimum storage ray-triangle intersection". Tomas MÃ¶ller and
 %    Ben Trumbore. Journal of Graphics Tools, 2(1):21--28, 1997.
 %    http://www.graphics.cornell.edu/pubs/1997/MT97.pdf
 % * http://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/raytri/
