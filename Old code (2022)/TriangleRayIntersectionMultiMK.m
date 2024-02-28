@@ -1,6 +1,6 @@
 function [intersect, t] = TriangleRayIntersectionMultiMK(  ori, dir, vert0, edge1, edge2 )
 
-% determines ray-triangle intersection based on method of Möller and Trumbore ('97)
+% determines ray-triangle intersection based on method of MÃ¶ller and Trumbore ('97)
 %
 % ori: ray origin (one vector)
 % dir: ray's direction (one vector)
